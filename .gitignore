@@ -1,0 +1,9 @@
+**/target/
+.idea/
+**/.idea/
+**/.DS_Store
+.DS_Store
+__MACOSX/
+.env
+.env.*
+!.env.example
